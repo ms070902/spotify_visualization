@@ -1,0 +1,28 @@
+{
+    "id": "D5F59AE8",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1697628731475.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "017eefe5e31445a391849af4be8faf84",
+        "name": "mongo_conn",
+        "title": "mongo_conn",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7810123700365321520,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1697628731475,
+    "read_only": false,
+    "read_only_alternatives": []
+}
